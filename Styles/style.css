@@ -95,8 +95,7 @@ body{
     }
     
     .footer{
-      width: 100%;
-      color: var(--cor-primaria);
+     color: var(--cor-primaria);
       background-color: var(--cor-terciaria);
       padding: 24px;
       text-align: center;
